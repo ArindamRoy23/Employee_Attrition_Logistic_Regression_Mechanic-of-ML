@@ -1,7 +1,7 @@
 # Car Price Prediction
 
 ##### Hi, 
-###### Welcome to this repository. The objective of this notebook is to best understand logistic regression with the help of the example of employee attrition predictions.  
+###### Welcome to this repository. The objective of this repo is to best understand logistic regression with the help of the example of employee attrition predictions.  
 ###### https://www.kaggle.com/HRAnalyticRepository/employee-attrition-data
 
 ## Prologue
