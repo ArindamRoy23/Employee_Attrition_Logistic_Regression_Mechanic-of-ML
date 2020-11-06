@@ -21,8 +21,8 @@ The goal of this notebook is to develop a risk model that forecasts the likeliho
 
 ### References:
 * Logistic Regression: https://www.youtube.com/watch?v=yIYKR4sgzI8
-*                      https://www.youtube.com/watch?v=nk2CQITm_eo&t=265s
-*                      https://www.youtube.com/watch?v=het9HFqo1TQ
+* https://www.youtube.com/watch?v=nk2CQITm_eo&t=265s
+* https://www.youtube.com/watch?v=het9HFqo1TQ
 * Likelyhood: https://www.youtube.com/watch?v=pYxNSUDSFH4
 * https://www.kaggle.com/gulsahdemiryurek/seaborn-exercise
 * https://www.kaggle.com/mnassrib/titanic-logistic-regression-with-python
