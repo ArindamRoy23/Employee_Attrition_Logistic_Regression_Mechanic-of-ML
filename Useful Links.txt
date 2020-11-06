@@ -1,0 +1,6 @@
+Logistic Regression: https://www.youtube.com/watch?v=yIYKR4sgzI8
+	https://www.youtube.com/watch?v=nk2CQITm_eo&t=265s
+	https://www.youtube.com/watch?v=het9HFqo1TQ
+	
+Likelyhood: https://www.youtube.com/watch?v=pYxNSUDSFH4
+Outlier finding(Unrelated): https://www.kaggle.com/nareshbhat/outlier-the-silent-killer
